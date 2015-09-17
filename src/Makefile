@@ -7,7 +7,7 @@
 ######################################################################
 
 # Lista dos objetos (arquivos .c, troca-se a extensão para .o) necessários para o programa final
-OBJS = main.o
+OBJS = main.o list.o
 
 # Nome do executável
 MAIN = pa1
